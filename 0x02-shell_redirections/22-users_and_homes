@@ -1,2 +1,2 @@
 #!/bin/bash
-passwd -as /etc/passwd
+passwd -a /etc/passwd
