@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laR . | wc --lines
+ls -laR | wc --lines
