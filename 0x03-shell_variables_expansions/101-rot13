@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( ROT13 (A-Z,a-z) ))
+echo $(( ROT13(A-Z,a-z) ))
