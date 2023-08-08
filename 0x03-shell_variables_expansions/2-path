@@ -1,2 +1,2 @@
 #!/bin/bash
-find / -name "action" –type f print
+ export PATH="/action:$PATH"
