@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.$BINARYf\n" 10
+printf "%$BINARY\n" 10
