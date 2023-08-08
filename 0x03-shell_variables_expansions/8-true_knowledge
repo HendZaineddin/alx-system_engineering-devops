@@ -1,2 +1,2 @@
 #!/bin/bash
-printf\n ` echo $(( TRUEKNOWLEDGE + 180 )) `
+printf\n ` echo $(( TRUEKNOWLEDGE + 128 )) `
