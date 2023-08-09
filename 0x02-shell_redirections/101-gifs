@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "*.gif" | sort -n | uniq ".gif"
+echo "*.gif" | sort -f | uniq ".gif"
