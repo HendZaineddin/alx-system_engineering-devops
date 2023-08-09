@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "*.gif" | ls -la | tr '.gif' "num data"
+echo "*.gif" | sort -n | uniq ".gif"
