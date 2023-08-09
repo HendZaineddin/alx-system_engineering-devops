@@ -1,0 +1,2 @@
+#!/bin/bash
+echo *.gif | ls -la | tr ".gif" "num data"
